@@ -30,7 +30,7 @@ After enhancing the video, the next step is number plate detection and recogniti
 Use the following dataset to train your number plate detection model:
 - https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e
 
-This model detects the license plate from frames and extracts the alphanumeric plate number.
+This model detects the license plate from frames and extracts the alphanumeric plate number along with all the metadata.
 
 
 ## Step 3: Run the Backend Server
