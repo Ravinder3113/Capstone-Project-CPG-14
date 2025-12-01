@@ -1,4 +1,4 @@
-# Low-Light Video Enhancement and Number Plate Recognition System
+# Smart Tracking & Surveillance System
 
 ## Step 1: Low-Light Video Enhancement
 
