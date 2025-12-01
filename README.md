@@ -26,7 +26,7 @@ Additionally, CCTV feed samples are provided in the project for testing purposes
 
 After enhancing the video, the next step is number plate detection and recognition.
 
-### Training the ANPR Model
+### Training the Model
 Use the following dataset to train your number plate detection model:
 - https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e
 
